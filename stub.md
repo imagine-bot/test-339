@@ -12,5 +12,5 @@ temperature: 0
 Create a simple readme file for my typescript project
 ```
 
-Foo bar
+Foo bar Hello
 
