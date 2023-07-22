@@ -10,6 +10,8 @@ temperature: 0
 
 ```stub
 Create a simple readme file for my typescript project
+``````stub
+Create a simple readme file for my typescript project
 ```
 
 Foo bar Hello Interesting Ola
