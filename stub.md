@@ -15,3 +15,8 @@ Create a simple readme file for my typescript project
 Foo bar Hello Interesting Ola!
 
 
+
+
+```stub
+Append the number 0 to the end of the readme file```
+
