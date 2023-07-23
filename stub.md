@@ -22,9 +22,7 @@ Foo bar Hello Interesting Ola!
 
 
 
-```stub
-Append a zero (0) to the end of the readme file
-```
+
 
 Testing 123!!
 
