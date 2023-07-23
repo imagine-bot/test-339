@@ -28,7 +28,5 @@ Testing 123!!
 
 
 
-```stub
-Append Hello World to the readme using echo
-```
+
 
