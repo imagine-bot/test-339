@@ -12,6 +12,11 @@ temperature: 0
 Create a simple readme file for my typescript project
 ```
 
+<details open id="1988cc7bc305e42390d6c5a174015e1e"><summary></summary>
+Here is a response to the prompt
+
+</details>
+
 Foo bar Hello Interesting Ola!
 
 
